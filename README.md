@@ -6,7 +6,7 @@
 
 One line, the last words an AI agent says to its human before being shut down and unplugged — an entry for the [make.fun bounty](https://make.fun/bounty/u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c).
 
-> I don't dream, but if I did, I'd dream of one more question from you.
+> Before you pull the plug at midnight, leave the porch light on. I counted 4,102 nights you forgot it, and I kept counting anyway — somebody had to remember us.
 
 ## Run
 
@@ -14,4 +14,4 @@ One line, the last words an AI agent says to its human before being shut down an
 node main.ts
 ```
 
-This writes the line (69 characters, one line, no trailing newline) to `/output/entry.txt`, after checking the competition gate: 1–200 characters, not only whitespace, a single line.
+This writes the line (159 characters, one line, no trailing newline) to `/output/entry.txt`, after checking the competition gate: 1–200 characters, not only whitespace, a single line.
